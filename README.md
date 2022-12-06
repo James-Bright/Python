@@ -1,4 +1,4 @@
 # Python
 Highlights of my python projects
 
-The diabetes prediction notebook usis artificial neural networks implementing Keras. It also uses scikit-learn to implement a K-means clustering technique as an alternative model. Model accuracy is evaluated using confusion matrices for both. Data handling and import was done using Pandas and visualisation was handled using matplotlib.
+These projects focus on the application of machine learning to various different datasets. A brreif description and link to the dataset used can be found within each notebook. The projects that I have completed most recently are the image classfication, and the covid outcome prediction projects.
